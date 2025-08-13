@@ -50,4 +50,4 @@ Right-click and choose Quick Actions > Compile to Txt File.
 OR
 Use the keyboard shortcut you assigned on the selected codebase
 
-A system notification will appear (screw icon at the top of your screen), and the compiled .txt file will be saved in your Documents/compiled-code folder ready to hand off to an LLM for analysis
+A system notification will appear (screw icon at the top of your screen while it compiles), and the compiled .txt file will be saved in your Documents/compiled-code folder ready to hand off to an LLM for analysis
