@@ -44,7 +44,7 @@ c. Find "Compile to Txt File" under the "Files and Folders" section.
 d. Click "Add Shortcut" and assign a unique key combination (e.g., Cmd + Option + Shift + C).
 
 ## 4. How to Use
-You can now select any file(s) or folder(s) (i.e. your codebase) in Finder, IntelliJ, or VS Code (NOTE THIS MUST BE VIA YOUR FILE SYSTEM AND NOT WITHIN A CODE EDITOR). Then, either:
+You can now select any file(s) or folder(s) (i.e. your codebase) in Finder (NOTE THIS MUST BE VIA YOUR FILE SYSTEM AND NOT WITHIN A CODE EDITOR). Then, either:
 
 Right-click and choose Quick Actions > Compile to Txt File.
 OR
