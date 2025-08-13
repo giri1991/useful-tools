@@ -47,7 +47,7 @@ d. Click "Add Shortcut" and assign a unique key combination (e.g., Cmd + Option 
 You can now select any file(s) or folder(s) (i.e. your codebase) in Finder, IntelliJ, or VS Code. Then, either:
 
 Right-click and choose Quick Actions > Compile to Txt File.
+OR
+Use the keyboard shortcut you assigned on the selected codebase
 
-Use the keyboard shortcut you assigned.
-
-A system notification will appear, and the compiled .txt file will be saved in your Documents/compiled-code folder ready to hand off to an LLM
+A system notification will appear (screw icon at the top of your screen), and the compiled .txt file will be saved in your Documents/compiled-code folder ready to hand off to an LLM for analysis
